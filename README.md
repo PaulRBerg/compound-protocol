@@ -105,7 +105,7 @@ There are additional tests under the [spec/scenario](https://github.com/compound
 Formal Verification Specs
 -------------------------
 
-The Compound Protocol has a number of formal verification specifications, powered by [Certora](https://www.certora.com/). You can find details in the [spec/formal](https://github.com/compound-finance/compound-protocol/tree/master/spec/formal) folder. The Certora Verification Language (CVL) files included are specifications, which when with the Certora CLI tool, produce formal proofs (or counter-examples) that the code of a given contract exactly matches that specification.
+The Compound Protocol has a number of formal verification specifications, powered by [Certora](https://www.certora.com/). You can find details in the [spec/certora](https://github.com/compound-finance/compound-protocol/tree/master/spec/certora) folder. The Certora Verification Language (CVL) files included are specifications, which when with the Certora CLI tool, produce formal proofs (or counter-examples) that the code of a given contract exactly matches that specification.
 =======
 See the [Scenario Docs](https://github.com/compound-finance/money-market/tree/master/scenario/SCENARIO.md) on steps for using the repl.
 
